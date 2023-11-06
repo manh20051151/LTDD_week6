@@ -1,0 +1,101 @@
+[
+    {
+      "id": 1,
+      "name": "Kitanda Espresso & Acai-U District",
+      "address": "1121 NE 45 St",
+      "img": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698745871/LTDD/CAFE/download_z3yvry.jpg",
+      "status": "Accepting Orders",
+      "img_status": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698745606/LTDD/CAFE/Image_178_kl1fa7.png",
+      "time": "5-10 minutes"
+    },
+    {
+      "id": 2,
+      "name": "Jewel Box Cafe",
+      "address": "1145 GE 54 St",
+      "img": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698743927/LTDD/CAFE/Image_npqoff.png",
+      "status": "Tempory Unavailable",
+      "img_status": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698745606/LTDD/CAFE/Image_190_rs9q2a.png",
+      "time": "5-10 minutes"
+    },
+    {
+      "id": 3,
+      "name": "Javasti Cafe",
+      "address": "1121 NE 45 St",
+      "img": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698743927/LTDD/CAFE/Image_1_ih6id4.png",
+      "status": "Tempory Unavailable",
+      "img_status": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698745606/LTDD/CAFE/Image_190_rs9q2a.png",
+      "time": "15-20 minutes"
+    },
+    {
+      "id": 4,
+      "name": "Trung Nguyên Legend",
+      "address": "587 Nguyên Kiệm",
+      "img": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698743927/LTDD/CAFE/Image_2_ox6uyn.png",
+      "status": "Tempory Unavailable",
+      "img_status": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698745606/LTDD/CAFE/Image_178_kl1fa7.png",
+      "time": "15-20 minutes"
+    },
+    {
+      "id": 5,
+      "name": "Phúc Long Coffee & Tea",
+      "address": "33 Nguyễn Văn Bảo",
+      "img": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698745868/LTDD/CAFE/download_1_yiqlhc.jpg",
+      "status": "Tempory Unavailable",
+      "img_status": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698745606/LTDD/CAFE/Image_190_rs9q2a.png",
+      "time": "15-20 minutes"
+    },
+    {
+      "id": 6,
+      "name": "Highlands Coffee",
+      "address": "262 Nguyễn Thái Sơn",
+      "img": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698745868/LTDD/CAFE/download_2_eyfppv.jpg",
+      "status": "Tempory Unavailable",
+      "img_status": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698745606/LTDD/CAFE/Image_178_kl1fa7.png",
+      "time": "15-20 minutes"
+    },
+    {
+      "id": 7,
+      "name": "Nu Bistro",
+      "address": "25 Hồ Tùng Mậu",
+      "img": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698745868/LTDD/CAFE/download_3_uhsw1w.jpg",
+      "status": "Tempory Unavailable",
+      "img_status": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698745606/LTDD/CAFE/Image_190_rs9q2a.png",
+      "time": "15-20 minutes"
+    },
+    {
+      "id": 8,
+      "name": "Cafe Cô Ba",
+      "address": "4-6 Đ. Đồng Khởi",
+      "img": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698745869/LTDD/CAFE/download_4_iipy3j.jpg",
+      "status": "Tempory Unavailable",
+      "img_status": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698745606/LTDD/CAFE/Image_178_kl1fa7.png",
+      "time": "15-20 minutes"
+    },
+    {
+      "id": 9,
+      "name": "Cà phê Sài Gòn Ơi",
+      "address": "42 Đ. Nguyễn Huệ",
+      "img": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698745869/LTDD/CAFE/download_5_cmftyb.jpg",
+      "status": "Tempory Unavailable",
+      "img_status": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698745606/LTDD/CAFE/Image_178_kl1fa7.png",
+      "time": "15-20 minutes"
+    },
+    {
+      "id": 10,
+      "name": "SÀI GÒN Cà Phê",
+      "address": "Aqua 2",
+      "img": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698745870/LTDD/CAFE/images_yzn0fm.jpg",
+      "status": "Tempory Unavailable",
+      "img_status": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698745606/LTDD/CAFE/Image_190_rs9q2a.png",
+      "time": "15-20 minutes"
+    },
+    {
+      "id": 11,
+      "name": "Café Terrace",
+      "address": "65 Đ. Lê Lợi",
+      "img": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698745870/LTDD/CAFE/download_6_ypi9fu.jpg",
+      "status": "Tempory Unavailable",
+      "img_status": "https://res.cloudinary.com/dnvtmbmne/image/upload/v1698745606/LTDD/CAFE/Image_178_kl1fa7.png",
+      "time": "15-20 minutes"
+    }
+  ]
